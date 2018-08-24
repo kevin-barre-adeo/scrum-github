@@ -26,11 +26,11 @@ Describe important parts of the user story and its context so developpement team
 ### Acceptance criteria
 
 High-level acceptance tests that **must be true from Product owner point of view** to consider the agile user story is complete:
-- [] Make sure it works with this specific input value
-- [] The output must include some specific information
-- [] The process must not write in database if the following error occurs
-- [] This edge case is taken into account
-- [] etc.
+- [ ] Make sure it works with this specific input value
+- [ ] The output must include some specific information
+- [ ] The process must not write in database if the following error occurs
+- [ ] This edge case is taken into account
+- [ ] etc.
 
 ### Tasks
 
